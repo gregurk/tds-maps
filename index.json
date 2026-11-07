@@ -1,5 +1,13 @@
 {
   "format": "tds-helper-library",
   "version": 1,
-  "maps": []
+  "maps": [
+    {
+      "id": "tds_helper_self_test",
+      "name": "TDS Helper self-test",
+      "file": "maps/tds_helper_self_test.tdsmap.json",
+      "sha256": "b1f4f08037ebd5055b02317c70209175cf14492a3d05b490426ffedb133e39ee",
+      "confidence": "template"
+    }
+  ]
 }
